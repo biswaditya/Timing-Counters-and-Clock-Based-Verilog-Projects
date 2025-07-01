@@ -1,1 +1,1 @@
-# Verilog-Application-Based-Projects
+# Timing Counters and Clock Based Verilog Projects
